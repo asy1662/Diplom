@@ -5,7 +5,7 @@ Pytest_ui_api_chitai_gorod
 
 Шаблон для автоматизации тестирования на python
 Шаги
-Склонировать проект https://github.com/asy1662/Diplom/pull/1
+Склонировать проект https://github.com/asy1662/Diplom/pull/2
 Установить зависимости
 Запустить тесты 'pytest'
 Стек
